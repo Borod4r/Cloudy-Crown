@@ -414,6 +414,7 @@ MonoBehaviour:
   - {fileID: 2100000, guid: 169a1b8f06c17c84e8de491f2bfef986, type: 2}
   - {fileID: 2100000, guid: ceb0a3ed2cb53a94fa21843cc958c52b, type: 2}
   - {fileID: 2100000, guid: 3930fc89a28b29746bde6a2389a513e0, type: 2}
+  - {fileID: 2100000, guid: 77715b8b6b248994891d3ccad1ad330b, type: 2}
 --- !u!114 &791595710
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -465,6 +466,8 @@ MonoBehaviour:
     - m_Text: CloudyCrown 03
       m_Image: {fileID: 0}
     - m_Text: CloudyCrown 04
+      m_Image: {fileID: 0}
+    - m_Text: CloudyCrown 05
       m_Image: {fileID: 0}
   m_OnValueChanged:
     m_PersistentCalls:
