@@ -8,6 +8,8 @@ Each sky uses Unity's 6-sided skybox material. Each texture is in PNG format and
 
 Package comes with sample scripts and demo scene that helps you quickly test and use these skyboxes in your scene.
 
+Package also available on the [asset store](https://www.assetstore.unity3d.com/en/#!/content/60004).
+
 ## WebGL Demo 
 
 http://www.borodar.com/stuff/farlandskies/cloudycrown/index.html
